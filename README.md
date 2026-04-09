@@ -4,17 +4,17 @@ has 2 modes, kinda, can works both at the same time
 
 
 BLUETOOTH TUTORIAL 
-First on the server machine launch server.py (inside Server Folder)
-Then launch BluetoothServer.py (Also in the Server Folder) 
+First on the server machine launch server.py 
+Then launch BluetoothServer.py  
 make sure pairable AND discoverable is ON
 from the the client pair the computurs 
-then Launch Bluetooth.py (client side , Client Folder)
-THEN launch Bluetoothclient.py (client side too, Client Folder)
+then Launch Bluetooth.py (client side )
+THEN launch Bluetoothclient.py (client side too)
 ## Make sure to to change the MAC addresses in the BluetoothServer.py and BluetoothClient.py to YOUR server's MAC address
 
 NORMAL / LAN CONNECTIONS
-run server.py (Location above)
-run local.py (Client folder)
+run server.py
+run local.py 
 Input server.py's IP in local.py
 
 
